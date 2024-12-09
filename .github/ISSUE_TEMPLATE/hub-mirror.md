@@ -9,6 +9,6 @@ labels: ["hub-mirror"]
     "platform":"",
     "hub-mirror": [
         "registry.k8s.io/kube-apiserver",
-        "registry.k8s.io/kube-apiserver:v1.27.4",
+        "registry.k8s.io/kube-apiserver:v1.27.4"
     ]
 }
